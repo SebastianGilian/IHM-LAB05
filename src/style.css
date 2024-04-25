@@ -1,0 +1,26 @@
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.bg-body-tertiary {
+    background-color: #333 !important; 
+    
+}
+.navbar-brand{
+    color: #fff;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+
+
